@@ -23,7 +23,7 @@ body:
       label: Use Case for request to onboard?
       description: Briefly explan here?
       placeholder: Tell us what you see!
-      value: "explanation.!"
+      value: ex. "explanation.!"
     validations:
       required: true
   - type: dropdown
