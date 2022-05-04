@@ -14,16 +14,16 @@ body:
     attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more information wrt your request?
-      placeholder: ex. emailregions.com
+      placeholder: ex. email@regions.com
     validations:
       required: false
   - type: textarea
-    id: Reason for Request
+    id: Reason-for-Request
     attributes:
       label: Use Case for request to onboard?
       description: Briefly explan here?
       placeholder: Tell us what you see!
-      value: "explanation.....!"
+      value: "explanation.!"
     validations:
       required: true
   - type: dropdown
